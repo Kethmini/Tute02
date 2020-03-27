@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="n1">Number1</string>
+    <string name="n2">Number2</string>
+    <string name="bt1" />
+    <string name="btn1">OK</string>
+    <string name="nu1">Number 1</string>
+    <string name="nu2">Number 2</string>
+</resources>
